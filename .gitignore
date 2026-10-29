@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+assets/menu-check.png
+assets/submenu-check.png
+assets/install-check.png
+assets/result-check.png
